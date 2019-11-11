@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs
+/Study_01/.vs/Study_01/v16
